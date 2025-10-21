@@ -10,5 +10,5 @@ int main(){
 	prod += number %10;
 	number /=10;
 	}while (number != 0 );
-	std::cout << summ << ", "<< prod << std<<endl;}
+	std::cout << sum << ", "<< prod << std::endl;}
 
